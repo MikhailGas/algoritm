@@ -1,7 +1,7 @@
 <?php
 class ArrayNum{
     public $num = 77777;
-    public $max = 10;
+    public $max = 1000000;
 
     public function getArray(){
         echo $this->NUM;
